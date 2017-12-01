@@ -57,3 +57,5 @@ Let's make another example:
 *note:* for now, only this repository is integrated with Taiga, for all the other translations, just use GitHub or contact us.
 
 For support and suggestions: Open an issue in this repository, come chat on`#monero-translations` on Freenode, or message us on [Taiga](https://taiga.getmonero.org/project/erciccione-monero-localization/)
+
+test commit
